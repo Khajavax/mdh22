@@ -1,4 +1,4 @@
-# Saccharomyces cerevisiae MDH1
+# Saccharomyces cerevisiae MDH2
 
 # Uniprot ID: P17505
 # Variation: phosphorylation of S177 (pS160 in structure)
