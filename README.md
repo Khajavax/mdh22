@@ -1,13 +1,13 @@
-# Saccharomyces cerevisiae MDH2
+# Human Mitochondrial MDH2
 
-# Uniprot ID: P17505
-# Variation: phosphorylation of S177 (pS160 in structure)
+# Uniprot ID: P40926
+# Variation: phosphorylation of T73 (pT49 in structure)
 
 
 
 ## Description
 
-Serine 177 of yeast MDH1 was identified as a post-translationally modified site by [Reinders and coworkers](https://pubmed.ncbi.nlm.nih.gov/17761666/) in 2007. The study identified proteins with a role in the assembly of ATP synthase and energy metabolism.  This modification site is not conserved in human MDH2 [(P40926)](https://www.uniprot.org/uniprotkb/P40926/entry) 
+Threonine 73 of Human MDH2......... was identified as a post-translationally modified site by [Reinders and coworkers](https://pubmed.ncbi.nlm.nih.gov/17761666/) in 2007. The study identified proteins with a role in the assembly of ATP synthase and energy metabolism.  This modification site is not conserved in human MDH2 [(P40926)](https://www.uniprot.org/uniprotkb/P40926/entry) 
 and there are no functional studies of the role of this site in yeast metabolism. 
 *Entry started 10/21/2024 CEB*
 
