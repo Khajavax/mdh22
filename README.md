@@ -11,10 +11,11 @@ Threonine 73 of Human MDH2......... was identified as a post-translationally mod
 and there are no functional studies of the role of this site in yeast metabolism. 
 *Entry started 10/21/2024 CEB*
 
-# Comparison of MDH1 models and phospho modified MDH1
+# Comparison of MDH2 models and phospho modified MDH2
 
 1. Alignment of MDH2(Yellow), MDH2 with phosphoT 73(Red), and T73D(Blue)
 <img width="800" alt="align" src="https://github.com/user-attachments/assets/2b341f32-4d44-43d8-bd29-752a12ffd125">
+
 
 
 2. Modification site alignment within MDH1
