@@ -14,8 +14,7 @@ and there are no functional studies of the role of this site in yeast metabolism
 # Comparison of MDH1 models and phospho modified MDH1
 
 1. Alignment of MDH2(Yellow), MDH2 with phosphoT 73(Red), and T73D(Blue)
-<img width="654" alt="align" src="https://github.com/user-attachments/assets/2b341f32-4d44-43d8-bd29-752a12ffd125">
-{width = "200px"}
+<img width="800" alt="align" src="https://github.com/user-attachments/assets/2b341f32-4d44-43d8-bd29-752a12ffd125">
 
 
 2. Modification site alignment within MDH1
