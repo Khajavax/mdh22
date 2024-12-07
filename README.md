@@ -16,48 +16,48 @@ and there are no functional studies of the role of this site in yeast metabolism
 1. Alignment of MDH2(Yellow), MDH2 with phosphoT 73(Red), and T73D(Blue)
 <img width="800" alt="align" src="https://github.com/user-attachments/assets/2b341f32-4d44-43d8-bd29-752a12ffd125">
 
-
-
 2. Representation of Active(pink), Binding(green), and Modification(yellow, red, blue) sites on MDH2
-![alt text]<img width="367" alt="Screenshot 2024-12-06 at 10 33 25 PM" src="https://github.com/user-attachments/assets/352f6006-c2e7-4b64-9eea-47de8751f01a">
-(/site.png)
+<img width="367" alt="Screenshot 2024-12-06 at 10 33 25 PM" src="https://github.com/user-attachments/assets/352f6006-c2e7-4b64-9eea-47de8751f01a">
 
 The modification site is near to R174 and E178 and could make ionic or hydrogen bonding interactions with both of those side chains when modified. 
 
 3. Comparison of amino acid 73 weak interactions with surrounding amino acids in Original (yellow), phosphoT73 (red), and mimic T73D(blue)
-![alt text](images/si<img width="608" alt="Screenshot 2024-12-06 at 10 34 19 PM" src="https://github.com/user-attachments/assets/ab4f4312-bf46-41f0-ac9e-9551384dea09">
-te.png)
+<img width="608" alt="Screenshot 2024-12-06 at 10 34 19 PM" src="https://github.com/user-attachments/assets/ab4f4312-bf46-41f0-ac9e-9551384dea09">
 
 
 ## Effect of the sequence variant and PTM on MDH dynamics
 
- Comparison of post-MD simulations of original MDH2(yellow) and mimic T73D MDH2(blue) is <img width="261" alt="Screenshot 2024-12-06 at 10 37 03 PM" src="https://github.com/user-attachments/assets/68f27407-de2b-4541-ad59-6fb52cfd7068">
-Comparison of post-MD simulations of original MDH2(yellow) and mimic T73D MDH2(blue)
+1. Comparison of post-MD simulations of original MDH2(yellow) and mimic T73D MDH2(blue)
+<img width="261" alt="Screenshot 2024-12-06 at 10 37 03 PM" src="https://github.com/user-attachments/assets/68f27407-de2b-4541-ad59-6fb52cfd7068">
 
 
-After simulation, the overall protein structures are similar as well as the area surrounding the modification sites. A solvent sodium ion has moved close and is forming an ionic interaction with the D in position 177. D177 also is making contact with R174. Neither of these interactions are observed in the unmodified enzyme.
+2. Comparison of modification sites on post-MD simulations of original MDH2(yellow) and mimic T73D MDH2(blue)
 <img width="388" alt="Screenshot 2024-12-06 at 10 40 38 PM" src="https://github.com/user-attachments/assets/a8bd55b2-a94d-41b5-b635-b08e2224676d">
- Comparison of modification sites on post-MD simulations of original MDH2(yellow) and mimic T73D MDH2(blue)
-![alt text](images/md_site.png)
+ 
+After simulation, the overall protein structures are similar as well as the area surrounding the modification sites. A solvent sodium ion has moved close and is forming an ionic interaction with the D in position 177. D177 also is making contact with R174. Neither of these interactions are observed in the unmodified enzyme.
+
 
 ### Comparison of the enzyme dynamics
-After simulation, the dynamics as described by the root mean square fluctuation (RMSF) value were compared. In the plot, there are differences between the unmodified (purple) and S177D (green) around amino acids 400 and 500. These sites are loops bordering the active site. The difference around residue 400 is the active site loop which is key for binding the carboxylic acid substrate. The vertical line indicates the end of one subunit and the beginning of the next subunit of the MDH1 dimer.
 
+1. Overlapping Comparison of RMSF values in Angstroms (y-axis) for each amino acid position (x-axis) for MD simulations of original MDH2(yellow) and mimic T73D MDH2(blue)
 <img width="434" alt="Screenshot 2024-12-06 at 10 42 04 PM" src="https://github.com/user-attachments/assets/ce2e11fc-0685-474b-b59f-c8bf7d68621a">
-Overlapping Comparison of RMSF values in Angstroms (y-axis) for each amino acid position (x-axis) for MD simulations of original MDH2(yellow) and mimic T73D MDH2(blue)
+
+After simulation, the dynamics as described by the root mean square fluctuation (RMSF) value were compared. In the plot, there are differences between the unmodified (purple) and S177D (green) around amino acids 400 and 500. These sites are loops bordering the active site. The difference around residue 400 is the active site loop which is key for binding the carboxylic acid substrate. The vertical line indicates the end of one subunit and the beginning of the next subunit of the MDH1 dimer.
 
 ### Effect of modification on the pKa values
 
-Overall the modification did not affect the pKa values of the active site histidine. There are only minor differences in the spread of the data over the simulation which may be due to equilibration. 
-<img width="434" alt="Screenshot 2024-12-06 at 10 43 10 PM" src="https://github.com/user-attachments/assets/851585f1-7a9d-4dad-98ab-d6ff0c507610">
+1. pKa fluctuation for Histidine 200(176 in structure)(active site) for MD simulations of original MDH2(yellow) and mimic T73D MDH2(blue)
+<img width="400" alt="Screenshot 2024-12-06 at 10 43 10 PM" src="https://github.com/user-attachments/assets/851585f1-7a9d-4dad-98ab-d6ff0c507610">
 
-pKa fluctuation for Histidine 200(176 in structure)(active site) for MD simulations of original MDH2(yellow) and mimic T73D MDH2(blue)
+Overall the modification did not affect the pKa values of the active site histidine. There are only minor differences in the spread of the data over the simulation which may be due to equilibration. 
+
 
 ## Comparison of the mimic and the authentic PTM
-The RMSD MDHT73D and phosphoT73 MDH2 was 1.43 Å. The overall structures are similar with no major differences in structure or position.
+
 1. Alignment of the MDH2 with phosphoT 73(red), MDH2 mimic T73D(blue)
 <img width="400" alt="Screenshot 2024-12-06 at 10 43 58 PM" src="https://github.com/user-attachments/assets/5f33d250-84de-4e6a-80b5-40dfb19460e7">
 
+The RMSD MDHT73D and phosphoT73 MDH2 was 1.43 Å. The overall structures are similar with no major differences in structure or position.
 
 ## Colab notebook links
 
