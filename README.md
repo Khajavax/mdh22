@@ -62,9 +62,9 @@ The RMSD MDHT73D and phosphoT73 MDH2 was 1.43 Å. The overall structures are sim
 
 ## Colab notebook links
 
+Step 1: 
 
-
-
+Step 2: https://github.com/Khajavax/mdh22/blob/10db0c5675b4461d864edc210e53d1e5931095ae/mdanalysis_colab_Step2.ipynb
 
 ## Authors
 
