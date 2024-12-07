@@ -50,13 +50,14 @@ Overlapping Comparison of RMSF values in Angstroms (y-axis) for each amino acid 
 
 Overall the modification did not affect the pKa values of the active site histidine. There are only minor differences in the spread of the data over the simulation which may be due to equilibration. 
 <img width="434" alt="Screenshot 2024-12-06 at 10 43 10 PM" src="https://github.com/user-attachments/assets/851585f1-7a9d-4dad-98ab-d6ff0c507610">
+
 pKa fluctuation for Histidine 200(176 in structure)(active site) for MD simulations of original MDH2(yellow) and mimic T73D MDH2(blue)
 
 ## Comparison of the mimic and the authentic PTM
-The RMSD MDHS177D and phosphoS177 MDH1 was 0.48 Å. The overall structures are similar with no major differences in structure or position.
+The RMSD MDHT73D and phosphoT73 MDH2 was 1.43 Å. The overall structures are similar with no major differences in structure or position.
+1. Alignment of the MDH2 with phosphoT 73(red), MDH2 mimic T73D(blue)
+<img width="400" alt="Screenshot 2024-12-06 at 10 43 58 PM" src="https://github.com/user-attachments/assets/5f33d250-84de-4e6a-80b5-40dfb19460e7">
 
-<img width="800" alt="Screenshot 2024-12-06 at 10 43 58 PM" src="https://github.com/user-attachments/assets/5f33d250-84de-4e6a-80b5-40dfb19460e7">
-Alignment of the MDH2 with phosphoT 73(red), MDH2 mimic T73D(blue).
 
 ## Colab notebook links
 
