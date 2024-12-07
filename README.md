@@ -55,7 +55,7 @@ pKa fluctuation for Histidine 200(176 in structure)(active site) for MD simulati
 ## Comparison of the mimic and the authentic PTM
 The RMSD MDHS177D and phosphoS177 MDH1 was 0.48 Å. The overall structures are similar with no major differences in structure or position.
 
-<img width="274" alt="Screenshot 2024-12-06 at 10 43 58 PM" src="https://github.com/user-attachments/assets/5f33d250-84de-4e6a-80b5-40dfb19460e7">
+<img width="800" alt="Screenshot 2024-12-06 at 10 43 58 PM" src="https://github.com/user-attachments/assets/5f33d250-84de-4e6a-80b5-40dfb19460e7">
 Alignment of the MDH2 with phosphoT 73(red), MDH2 mimic T73D(blue).
 
 ## Colab notebook links
@@ -87,5 +87,7 @@ This work is licensed under a
 ## References
 
 (1) UniProt. https://www.uniprot.org/uniprotkb/P40926/entry (accessed 2024-12-06).
+
 (2) AlphaFold Server. https://alphafoldserver.com/ (accessed 2024-12-06).
+
 (3) Sehnal, D.; Bittrich, S.; Deshpande, M.; Svobodová, R.; Berka, K.; Bazgier, V.; Velankar, S.; Burley, S. K.; Koča, J.; Rose, A. S. Mol* Viewer: Modern Web App for 3D Visualization and Analysis of Large Biomolecular Structures. Nucleic Acids Research 2021, 49 (W1), W431–W437. https://doi.org/10.1093/nar/gkab314.
