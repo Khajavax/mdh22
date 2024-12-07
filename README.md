@@ -19,9 +19,13 @@ and there are no functional studies of the role of this site in yeast metabolism
 
 
 2. Modification site alignment within MDH1
-![alt text](images/site.png)
+![alt text](/site.png)
 
 The modification site is near to R174 and E178 and could make ionic or hydrogen bonding interactions with both of those side chains when modified. 
+
+2. Modification site alignment within MDH1
+![alt text](images/site.png)
+
 
 ## Effect of the sequence variant and PTM on MDH dynamics
 
